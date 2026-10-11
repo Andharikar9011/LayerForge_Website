@@ -1,0 +1,389 @@
+================================================================================
+  LAYERFORGE WEBSITE — PERSONAL & BUSINESS INFORMATION FILL SHEET
+================================================================================
+Fill in every field below. Once done, share this file back and I will
+substitute all values into the website automatically.
+
+Lines starting with  >>  are where you type your answer.
+Lines starting with  #   are instructions / notes — do not edit them.
+================================================================================
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 1 — COMPANY BASICS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[1.1] Company / Brand Name
+# Currently used: "LayerForge"
+# Change only if you want a different display name
+>> LayerForge
+
+[1.2] Company Tagline / Headline (Hero Section)
+# Currently used: "Engineering the Future, One Layer at a Time"
+>> Engineering the Future, One Layer at a Time
+
+[1.3] Company Sub-headline (Hero Section)
+# Currently used: "Precision 3D Printing for Prototypes, Manufacturing, and Innovation."
+>> Precision 3D Printing for Prototypes, Manufacturing, and Innovation.
+
+[1.4] Website Domain / URL
+# Used for og:url meta tag and footer links
+# Example:  https://www.layerforge.in
+>> 
+
+[1.5] Year Founded / Established
+# Used in footer copyright line
+# Example:  2022
+>> 
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 2 — CONTACT INFORMATION (Footer & Contact Section)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[2.1] Primary Email Address
+# Currently placeholder: hello@layerforge.in
+# This email appears as a clickable mailto: link in the footer
+>> 
+
+[2.2] Primary Phone Number
+# Currently placeholder: +91 12345 67890
+# Include country code. Example:  +91 98765 43210
+>> 
+
+[2.3] WhatsApp Number (optional)
+# If different from phone number above. Leave blank to skip.
+>> 
+
+[2.4] Street Address / Office Address (Line 1)
+# Currently placeholder: Pune, Maharashtra, India 411001
+# Example:  Plot 14, MIDC Industrial Area
+>> 
+
+[2.5] City
+# Example:  Pune
+>> 
+
+[2.6] State / Province
+# Example:  Maharashtra
+>> 
+
+[2.7] Country
+# Example:  India
+>> 
+
+[2.8] PIN / ZIP Code
+# Example:  411001
+>> 
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 3 — SOCIAL MEDIA LINKS (Footer)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# All currently set to "#" (placeholder). Paste the full URL.
+# Leave blank to HIDE that icon from the footer entirely.
+
+[3.1] LinkedIn Profile / Page URL
+# Example:  https://www.linkedin.com/company/layerforge
+>> 
+
+[3.2] Instagram Profile URL
+# Example:  https://www.instagram.com/layerforge
+>> 
+
+[3.3] YouTube Channel URL
+# Example:  https://www.youtube.com/@layerforge
+>> 
+
+[3.4] Twitter / X Profile URL
+# Example:  https://twitter.com/layerforge
+>> 
+
+[3.5] GitHub Profile / Organisation URL (optional)
+# Example:  https://github.com/layerforge
+# Leave blank to hide this icon
+>> 
+
+[3.6] Facebook Page URL (optional — not currently in footer)
+# Leave blank to skip adding it
+>> 
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 4 — SEO / META TAGS (index.html)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[4.1] SEO Page Title (Browser tab + Google results)
+# Currently: "LayerForge — Engineering the Future, One Layer at a Time"
+# Keep under 60 characters for best SEO
+>> LayerForge — Engineering the Future, One Layer at a Time
+
+[4.2] Meta Description (Google search snippet)
+# Currently: "LayerForge — Premium 3D Printing & Additive Manufacturing..."
+# Keep under 160 characters
+>> LayerForge — Premium 3D Printing & Additive Manufacturing. Industrial Prototyping, Rapid Prototyping, Functional Parts, Custom Manufacturing and more.
+
+[4.3] Meta Keywords (comma-separated)
+# Currently: "3D printing, additive manufacturing, rapid prototyping, industrial manufacturing, LayerForge"
+# Add your city/region for local SEO. Example: add "3D printing Pune"
+>> 3D printing, additive manufacturing, rapid prototyping, industrial manufacturing, LayerForge
+
+[4.4] Open Graph (OG) Image URL
+# The image shown when your link is shared on WhatsApp / social media
+# Must be a full URL to a publicly hosted image (1200×630 px recommended)
+# Example:  https://www.layerforge.in/og-preview.jpg
+>> 
+
+[4.5] Google Analytics / GTM Tracking ID (optional)
+# Example:  G-XXXXXXXXXX   or   GTM-XXXXXXX
+# Leave blank to skip
+>> 
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 5 — STATISTICS / NUMBERS (Statistics Section)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[5.1] Total Projects Delivered
+# Currently: "1000+"
+# If your real number is different, put it here (the + symbol is automatic)
+>> 1000
+
+[5.2] Customer Satisfaction Percentage
+# Currently: "98%"
+# Just the number, e.g.  97
+>> 98
+
+[5.3] Rapid Prototype Turnaround Time (in hours)
+# Currently: "24 Hours"
+# Just the number, e.g.  24  or  48
+>> 24
+
+[5.4] Number of Materials Supported
+# Currently: "50+"
+# Just the number, e.g.  50
+>> 50
+
+[5.5] Stat 1 Sub-label (below "Projects Delivered")
+# Currently: "Across 30+ countries"
+>> Across 30+ countries
+
+[5.6] Number of Countries Served (in sub-label)
+# Currently: "30+"
+>> 30
+
+[5.7] Number of Reviews (used in sub-label "Based on 500+ reviews")
+# Currently: "500+"
+>> 500
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 6 — TECHNOLOGY / CERTIFICATIONS (Technology Section badges)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[6.1] Quality Certification Badge
+# Currently: "ISO 9001 Certified"
+# If you have a different cert, replace. Leave blank to remove badge.
+>> ISO 9001 Certified
+
+[6.2] Minimum Print Resolution
+# Currently: "Layer Resolution: 25μm"
+# Example:  Layer Resolution: 50μm
+>> Layer Resolution: 25μm
+
+[6.3] Same-Day Quote Badge Text
+# Currently: "Same-Day Quoting"
+>> Same-Day Quoting
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 7 — TESTIMONIALS (real clients, if you have them)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Currently has 5 sample testimonials. Fill in real ones below.
+# Leave a testimonial blank (all fields empty) to keep the placeholder.
+
+--- Testimonial 1 ---
+[7.1.1] Full Name          >> 
+[7.1.2] Job Title / Role   >> 
+[7.1.3] Company Name       >> 
+[7.1.4] Initials (2 chars) >> 
+[7.1.5] Star Rating (1-5)  >> 5
+[7.1.6] Quote Text         >> 
+
+--- Testimonial 2 ---
+[7.2.1] Full Name          >> 
+[7.2.2] Job Title / Role   >> 
+[7.2.3] Company Name       >> 
+[7.2.4] Initials (2 chars) >> 
+[7.2.5] Star Rating (1-5)  >> 5
+[7.2.6] Quote Text         >> 
+
+--- Testimonial 3 ---
+[7.3.1] Full Name          >> 
+[7.3.2] Job Title / Role   >> 
+[7.3.3] Company Name       >> 
+[7.3.4] Initials (2 chars) >> 
+[7.3.5] Star Rating (1-5)  >> 5
+[7.3.6] Quote Text         >> 
+
+--- Testimonial 4 ---
+[7.4.1] Full Name          >> 
+[7.4.2] Job Title / Role   >> 
+[7.4.3] Company Name       >> 
+[7.4.4] Initials (2 chars) >> 
+[7.4.5] Star Rating (1-5)  >> 5
+[7.4.6] Quote Text         >> 
+
+--- Testimonial 5 ---
+[7.5.1] Full Name          >> 
+[7.5.2] Job Title / Role   >> 
+[7.5.3] Company Name       >> 
+[7.5.4] Initials (2 chars) >> 
+[7.5.5] Star Rating (1-5)  >> 5
+[7.5.6] Quote Text         >> 
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 8 — PORTFOLIO ITEMS (real projects)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Currently has 9 sample portfolio items. Fill in your real projects below.
+# Leave blank to keep the placeholder for that item.
+
+--- Portfolio Item 1 ---
+[8.1.1] Project Name        >> 
+[8.1.2] Material Used       >> 
+[8.1.3] Printer / Technology>> 
+[8.1.4] Print Time          >> 
+[8.1.5] Image File Path     >> 
+# (drag your image into the project's public/assets/ folder and write the filename)
+
+--- Portfolio Item 2 ---
+[8.2.1] Project Name        >> 
+[8.2.2] Material Used       >> 
+[8.2.3] Printer / Technology>> 
+[8.2.4] Print Time          >> 
+[8.2.5] Image File Path     >> 
+
+--- Portfolio Item 3 ---
+[8.3.1] Project Name        >> 
+[8.3.2] Material Used       >> 
+[8.3.3] Printer / Technology>> 
+[8.3.4] Print Time          >> 
+[8.3.5] Image File Path     >> 
+
+--- Portfolio Item 4 ---
+[8.4.1] Project Name        >> 
+[8.4.2] Material Used       >> 
+[8.4.3] Printer / Technology>> 
+[8.4.4] Print Time          >> 
+[8.4.5] Image File Path     >> 
+
+--- Portfolio Item 5 ---
+[8.5.1] Project Name        >> 
+[8.5.2] Material Used       >> 
+[8.5.3] Printer / Technology>> 
+[8.5.4] Print Time          >> 
+[8.5.5] Image File Path     >> 
+
+--- Portfolio Item 6 ---
+[8.6.1] Project Name        >> 
+[8.6.2] Material Used       >> 
+[8.6.3] Printer / Technology>> 
+[8.6.4] Print Time          >> 
+[8.6.5] Image File Path     >> 
+
+--- Portfolio Item 7 ---
+[8.7.1] Project Name        >> 
+[8.7.2] Material Used       >> 
+[8.7.3] Printer / Technology>> 
+[8.7.4] Print Time          >> 
+[8.7.5] Image File Path     >> 
+
+--- Portfolio Item 8 ---
+[8.8.1] Project Name        >> 
+[8.8.2] Material Used       >> 
+[8.8.3] Printer / Technology>> 
+[8.8.4] Print Time          >> 
+[8.8.5] Image File Path     >> 
+
+--- Portfolio Item 9 ---
+[8.9.1] Project Name        >> 
+[8.9.2] Material Used       >> 
+[8.9.3] Printer / Technology>> 
+[8.9.4] Print Time          >> 
+[8.9.5] Image File Path     >> 
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 9 — LEGAL / FOOTER LINKS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[9.1] Privacy Policy Page URL
+# Example:  /privacy  or  https://www.layerforge.in/privacy
+# Leave blank to keep "#" (no-link placeholder)
+>> 
+
+[9.2] Terms of Service Page URL
+>> 
+
+[9.3] Cookie Policy Page URL
+>> 
+
+[9.4] GST / Business Registration Number (optional)
+# Shown in footer if provided
+>> 
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 10 — QUOTE / CONTACT FORM (CTA Section)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[10.1] "Get a Quote" destination
+# Where should the "Get a Quote" and "Request Instant Quote" buttons link to?
+# Options:
+#   a) An external form (e.g. Google Form) — paste the URL
+#   b) A page on your site (e.g. /contact) — type the path
+#   c) An email address (e.g. mailto:orders@yourcompany.com)
+#   d) Keep scrolling to the footer contact area — type: #contact
+>> #contact
+
+[10.2] EmailJS Service ID (optional — for contact form backend)
+# If you want the newsletter/contact form to send real emails via EmailJS
+# Sign up at https://www.emailjs.com and paste your Service ID
+>> 
+
+[10.3] EmailJS Template ID (optional)
+>> 
+
+[10.4] EmailJS Public Key (optional)
+>> 
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SECTION 11 — NAVBAR / HERO BRANDING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[11.1] Eyebrow tag line in Hero (small text above the big headline)
+# Currently: "Premium Additive Manufacturing"
+>> Premium Additive Manufacturing
+
+[11.2] Hero mini-stat 1 value
+# Currently: "1000+" — should match Section 5.1 + "+"
+>> 1000+
+
+[11.3] Hero mini-stat 2 value
+# Currently: "98%"
+>> 98%
+
+[11.4] Hero mini-stat 3 value + unit
+# Currently: "24hrs"
+>> 24hrs
+
+
+================================================================================
+  HOW TO SUBMIT
+================================================================================
+Once you've filled in your answers after the ">>" symbols, share this file
+back in the chat (paste the contents or say "apply the info file") and I will
+update every matching field across the entire website in one go.
+================================================================================
