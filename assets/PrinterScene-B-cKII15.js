@@ -1,4 +1,4 @@
-import{R as G,r as n,C as A,u as f,A as C,V as S,S as D,a as z,E as P,D as L,M as R,j as e,b as I,c as k,d as _,e as B,B as T,f as w}from"./index-CCkAuGJU.js";const H=()=>parseInt(G.replace(/\D+/g,"")),O=H();class V extends z{constructor(){super({uniforms:{time:{value:0},fade:{value:1}},vertexShader:`
+import{R as G,r as n,C as A,u as f,A as C,V as S,S as D,a as z,E as P,D as L,M as R,j as e,b as I,c as k,d as _,e as B,B as T,f as w}from"./index-Bx-ehy-3.js";const H=()=>parseInt(G.replace(/\D+/g,"")),O=H();class V extends z{constructor(){super({uniforms:{time:{value:0},fade:{value:1}},vertexShader:`
       uniform float time;
       attribute float size;
       varying vec3 vColor;
