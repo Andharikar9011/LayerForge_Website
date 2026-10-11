@@ -10,7 +10,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://Andharikar9011.github.io/LayerForge_Website/",
+  "homepage": "https://layerforge.in/",
   "dependencies": {
     "@react-three/drei": "^9.109.2",
     "@react-three/fiber": "^8.17.10",
